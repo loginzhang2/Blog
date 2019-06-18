@@ -2,7 +2,7 @@
 
 这个项目是我loginzhang2(砖家) 的技术博客，使用了 GitHub 的 issues 区域来作为博文发布区。
 
-[进入博客](https://github.com/loginzhang2/Blog/projects)
+[进入博客](https://github.com/loginzhang2/Blog/issues)
 
 您的Star是我进行创作的动力！
 
